@@ -1,0 +1,101 @@
+body
+{
+    font-family : "Comic Sans MS", "Times New Roman", Serif;
+    background-color : #7EBDC2;
+    text-align: center;
+}
+
+h1 {
+    background-color: #EFE6DD;
+    font-size: 50px;
+    text-align: center;
+    border-style: solid;
+    border-color: black;
+    width: 500px;
+    margin: auto;
+    margin-top: 10px;
+}
+
+h2 {
+    background-color: #EFE6DD;
+    font-size: 20px;
+    text-align: center;
+    border-style: solid;
+    border-color: black;
+    width: 200px;
+    margin: auto;
+    margin-top: 10px;
+}
+
+h3 {
+    background-color: #BB4430;
+    font-size: 15px;
+    border-style: solid;
+    border-color: black;
+    width: 150px;
+    margin: auto;
+    margin-top: 10px;
+}
+
+img {
+    display: block;
+    border-style: solid;
+    border-color: black;
+    margin: auto;
+    margin-top: 10px;
+  }
+
+ol {
+    display: table;
+    border-style: solid;
+    border-color: black;
+    background-color: #F3DFA2;
+    margin: auto;
+    margin-top: 10px;
+}
+
+p{ 
+    background-color: #F3DFA2;
+    border-style: solid;
+    border-color: black;
+    padding: 5px;
+    width: 750px;
+    margin: auto;
+    margin-top: 10px;
+}
+
+.table{
+    margin-right: 20px;
+    margin-left: -20px;
+    display: inline-block;
+    padding: 5px;
+}
+
+.records{
+    background-color: #F3DFA2;
+}
+
+th{
+    border-style: solid;
+}
+
+td{
+    border-style:solid;
+}
+
+table{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+}
+
+.navigation{
+    background-color: #F3DFA2;
+    border-style: solid;
+    border-color: black;
+    padding: 5px;
+    width: 600px;
+    margin: auto;
+    margin-top: 10px;
+}
